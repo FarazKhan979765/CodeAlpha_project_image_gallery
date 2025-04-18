@@ -18,5 +18,5 @@ This is an image gallery web application developed as a part of my internship wi
 
 ## Screenshots
 
-![Gallery Screenshot](screenshot1.png)
-![Lightbox screenshot](screenshot2.png)
+![Gallery Screenshot](screenshots/Screenshot1.png)
+![Lightbox screenshot](screenshots/Screenshot2.png)
